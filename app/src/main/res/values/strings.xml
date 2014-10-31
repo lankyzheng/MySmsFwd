@@ -4,6 +4,7 @@
     <string name="app_name">My SMS Forward</string>
     <string name="action_settings">Settings</string>
     <string name="fwd_title">SMS forwarding to:</string>
+    <string name="fwd_to">18612345678</string>
     <string name="fwd_status">By lankyzheng@yahoo.com</string>
 
 </resources>
